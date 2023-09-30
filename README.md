@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 **E-Commerce Store Landing Page**
->>>>>>> e04a5a343b6c36ebc945ca3ab3309f8283b9482a
 
 **Project Description**
 
