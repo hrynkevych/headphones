@@ -1,8 +1,8 @@
-Bose Headphones Store Landing Page
+E-Commerce Store Landing Page
 
 Project Description
 
-This project is a landing page designed for a Bose headphones store. It provides an attractive and informative online presence for the store, showcasing Bose headphone models and features.
+This project is a landing page designed for a headphones store. It provides an attractive and informative online presence for the store, showcasing headphone models and features.
 
 Technologies Used
 
